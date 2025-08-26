@@ -28,6 +28,10 @@
 
 5. **Install extensions globally** into that directory (done as root or with sudo):
 
+   This can be done by simply copying the extensions folder from an examplar account or as below.
+
+   
+
    ```bash
    codium --extensions-dir /usr/local/share/vscodium-extensions \
           --install-extension ms-python.python
